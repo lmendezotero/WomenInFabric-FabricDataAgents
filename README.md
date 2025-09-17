@@ -4,9 +4,9 @@ Repositorio para guardar el contenido mostrado durante la charla de Agentes de I
 ![alt text](https://github.com/lmendezotero/WomenInFabric-FabricDataAgents/blob/main/Imagenes%20y%20Logos/Logo%20Women%20in%20Fabric.jpg)
 
 ## Descripción del proyecto 🔊
-El objetivo principal del proyecto es 
+El objetivo principal del proyecto es poner a prueba las capacidades del artefacto de Fabric Data Agent, un nuevo componente en fase de previuw lanzado por Microsoft.
 
-En el proyecto, se han analizado datos financieros de una empresa de distribución de productos de madera situada en el noroeste de España (Maderas del Noroeste). En el conjunto de datos se ha incluido información de clientes, región y localización, productos y jerarquía de categoría y subcategoría, cuentas contables. Además, se han incluido tablas de hechos de movimientos contables con inforamación de ingresos y gastos. 
+Para ello, ha sido necesario realizar una serie de acciones para poder poner a prueba al agente de datos desarrollado en el presente proyecto. En primer lugar, se han analizado datos financieros de una empresa de distribución de productos de madera situada en el noroeste de España (Maderas del Noroeste). En el conjunto de datos se ha incluido información de clientes, región y localización, productos y jerarquía de categoría y subcategoría, cuentas contables. Además, se han incluido tablas de hechos de movimientos contables con inforamación de ingresos y gastos. 
 
 Los datos de Maderas del Noroeste están almacenados en un sistema de almacenamiento en Fabric de lago de datos (Lakehouse) y las transformaciones de los datos se han realizado con notebooks de Pyspark.
 
