@@ -4,9 +4,11 @@ Repositorio para guardar el contenido mostrado durante la charla de Agentes de I
 ![alt text](https://github.com/lmendezotero/WomenInFabric-FabricDataAgents/blob/main/Imagenes%20y%20Logos/Logo%20Women%20in%20Fabric.jpg)
 
 ## Descripción del proyecto 🔊
-In this project, we have conducted data analysis to determine whether the machine learning techniques can be used to predict the house pricing for a specific location in the United States. The data sets used in this project have been obtained from a Kaggle competition entitled [House Prices Prediction: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview).
+En el proyecto, se han analizado datos financieros de una empresa de distribución de productos de madera situada en el noroeste de España (Maderas del Noroeste). En el conjunto de datos se ha incluido información de clientes, región y localización, productos y jerarquía de categoría y subcategoría, cuentas contables. Además, se han incluido tablas de hechos de movimientos contables con inforamación de ingresos y gastos. 
 
-To achieve it, we formed a working team (bcnDataScience) in the Leaderboard of the Kaggle competition to participate in it and get the best possible result. To do this, we have analyzed the data and created some regressions models based on Logistics Regression, Random Forest Regressor and Artificial Neural Networks.
+Los datos de Maderas del Noroeste están almacenados en un sistema de almacenamiento en Fabric de lago de datos (Lakehouse) y las transformaciones de los datos se han realizado con notebooks de Pyspark.
+
+Posteriormente, se ha desarrollado un informe en Microsoft Power BI 
 
 ## Estructura de carpetas & Contenido 📋
 El material de este repositorio está dividido en X carpetas principales:
