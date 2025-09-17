@@ -25,11 +25,14 @@ On another hand, we have created several Jupyter Notebooks to carry out detailed
 ### Kaggle Competition 📂
 Here there are available the Jupyter Notebooks where we have built the last versions of the regression models (Logistics Regression, Random Forest and ANN) and final results predicted by the models that we have delivered in the Kaggle Leaderboard platform. Furthermore, we have collected the results of each of the submissions made to review the performance of the models and the development of the project. 
 
-## Project Presentation 🎬
-In the following PowerPoint file you can find a short summary about the development and final results achieved in the project:
+## Agradecimientos 🙏🏻
 
-[House Prices Prediction Project - September 2020](https://github.com/lmendezotero/Postgraduate-Project/blob/master/House%20Prices%20Prediction/Data%20Science%20Project%20-%20House%20Prices%20Prediction.pdf)
+Agradecerle a la comunidad de Power BI & Fabric de Barcelona la oportunidad de haber podido participar como ponente en el evento de **Women in Fabric** y aportar mi pequeño grano de arena a la comunidad. 
 
-## Authors ✒️
+Dejo enlace de MeetUp de la comunidad para que estéis informandos de novedades y futuros eventos:
+
+![alt text]([https://github.com/lmendezotero/WomenInFabric-FabricDataAgents/blob/main/Imagenes%20y%20Logos/Logo%20Women%20in%20Fabric.jpg](https://www.meetup.com/es-ES/power-bi-barcelona/))
+
+## Autores ✒️
 
 * **Lorena Méndez Otero** - [lmendezotero](https://github.com/lmendezotero) 
