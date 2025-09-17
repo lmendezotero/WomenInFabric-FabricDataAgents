@@ -31,7 +31,7 @@ Agradecerle a la comunidad de Power BI & Fabric de Barcelona la oportunidad de h
 
 Dejo enlace de MeetUp de la comunidad para que estéis informandos de novedades y futuros eventos:
 
-[Power BI & Fabric Barcelona]([https://fabric.microsoft.](https://github.com/lmendezotero/WomenInFabric-FabricDataAgents/blob/main/Imagenes%20y%20Logos/Logo%20Women%20in%20Fabric.jpg](https://www.meetup.com/es-ES/power-bi-barcelona/))
+[Power BI & Fabric Barcelona]([https://fabric.microsoft.](https://github.com/lmendezotero/WomenInFabric-FabricDataAgents/blob/main/Imagenes%20y%20Logos/Logo%20Women%20in%20Fabric.jpg](https://www.meetup.com/es-ES/power-bi-barcelona/).
 
 ## Autores ✒️
 
