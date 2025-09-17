@@ -15,15 +15,23 @@ Posteriormente, se ha desarrollado un informe en Microsoft Power BI facilitar el
 Por último, se ha implementado un agente de datos, llamado "Financial Analyst Assistant" con el objetivo de facilitar la consulta interactiva de la información financiera, responder preguntas en lenguaje natural y apoyar la toma de decisiones mediante el acceso ágil a los datos procesados en Fabric.
 
 ## Estructura de carpetas & Contenido 📋
-El material de este repositorio está dividido en X carpetas principales:
+El material de este repositorio está dividido en 4 carpetas principales:
 
-### House Prices Prediction 📂
-Here we store the material with which we have been working most of the life of the project. On one hand, documents with explanations of the challenge and data downloaded from the kaggle platform are available.
+### Datos 📂
+Nos encontramos una serie de ficheros csv que almacen la información financiera de la empresa Maderas del Noroeste. Estos ficheros se cargarán al Lakehouse y se usarán para componer el modelo de datos del informe de Power BI. 
 
-On another hand, we have created several Jupyter Notebooks to carry out detailed analysis and visualizations and testing some functionalities and performance of the models generated in python, specially the Logistics Regression and Random Forest. Finally, we have saved the csv and pkl files generated with the different notebooks in various subfolders to classify the information and avoid confusion.
+### Notebooks 📂
+Notebooks de Pyspark desarrollados en Fabric para realizar las siguientes acciones:
+- DimTablesToDelta.ipynb -> Notebook desarrollado para transformar los datos de dimensiones de los ficheros csv a tablas delta y almacenarlos en el Lakehouse.
+- FactTablesToDelta.ipynb -> Notebook desarrollado para transformar los datos de hechos de los ficheros csv a tablas delta y almacenarlos en el Lakehouse.
+- FDA Evaluation.ipynb -> Notebook desarrollado para evaluar el grado de acierto en las respuestas obtenidas por el agente a través del SDK.
+- FDA Interaction with programming.ipynb -> Notebook desarrollado para probar la iteracción del SDK con el agente.
 
-### Kaggle Competition 📂
-Here there are available the Jupyter Notebooks where we have built the last versions of the regression models (Logistics Regression, Random Forest and ANN) and final results predicted by the models that we have delivered in the Kaggle Leaderboard platform. Furthermore, we have collected the results of each of the submissions made to review the performance of the models and the development of the project. 
+### Power BI 📂
+Se almacena en fichero pbix con el informe desarrollado en Power BI.
+
+### Fabric Data Agent 📂
+Se almacena información relevante para el agente de datos (prompting, ejemplos de queries sql, etc).
 
 ## Agradecimientos 🙏🏻
 
